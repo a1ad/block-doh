@@ -13,3 +13,4 @@ dns.rubyfish.cn
 doh.dnswarden.com
 doh.captnemo.in
 doh.tiar.app
+mozilla.cloudflare-dns.com
